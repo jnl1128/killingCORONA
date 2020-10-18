@@ -8,8 +8,10 @@
 2. 시작 버튼을 누르고 랜덤하게 생성되는 세균을 손 모양의 아이콘을 움직여 닦는다.
 3. 게임 한 판당 10초의 제한시간이 있다.
 4. 제한시간을 넘으면 수명 하나가 없어진다.
+![heart](https://user-images.githubusercontent.com/64057843/96364678-c0007280-1176-11eb-8ad1-0540d5a301cf.png)
+![heart](https://user-images.githubusercontent.com/64057843/96364678-c0007280-1176-11eb-8ad1-0540d5a301cf.png)
+![heart](https://user-images.githubusercontent.com/64057843/96364678-c0007280-1176-11eb-8ad1-0540d5a301cf.png)
 5. 수명은 총 3개로, 3개가 모두 끝나면 게임이 자동으로 종료된다.
-
 6. 게임 한 판이 끝나고 계속 게임을 진행할지 여부를 go 버튼과 stop 버튼으로 결정할 수 있다.
 
 ### 게임제작에 사용한 개념
